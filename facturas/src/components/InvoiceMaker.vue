@@ -46,7 +46,6 @@
           totalPrice: (parseFloat(article.value.quantity)*parseFloat(article.value.price)).toString()
         })
     }
-    const totalPrice=computed
 </script>
 <style>
 </style>
